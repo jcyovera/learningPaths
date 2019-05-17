@@ -1,17 +1,21 @@
 # Engineer 1
 
 - HTML Syntax
-	- Semantic
-	- HTML 5
+	- HTML 5 (Elements, attributes, Meta HTML)
+	- Semantic HTML
 	- DOM
 - Browser Events
 	- Event types
 - CSS
-	- Syntax, selectors, ids and classes
+	- Syntax, rules, selectors, ids and classes
+	- Parents and Children
+	- Pseudo-clasess
 - Responsive design
 	- Basic concepts, devices, resolutions
 - JavaScript
 	- Syntax, data types, control sentences, functions
+	- DOM Manipulation
+	- Ajax call (XHR)
 	- JSLint
 
 # Engineer 2
@@ -23,18 +27,21 @@
 	- ES6 Functions
 	- ES6 Built-ins
 	- ES6 Professional Developer-functions
+	- ES6 Write modular Javascript
 - Object-Oriented JavaScript
 	- Classes and Objects
 	- Objects in Depth
-- Intro to jQuery
+- Intro to jQuery (Optional)
 	- The DOM, $ and Selectors
 	- DOM Manipulation
 	- Event Listeners with jQuery
+- Typescript
+	- Basic concepts (Classes, Nameespaces, objects, Interfaces)
 - Angular
 	- Bindings
 	- Basic directives
-	- Components
-	- Controllers
+	- Components (Components comunication)
+	- Services
 	- Routing
 - React
 	- JSX
@@ -50,6 +57,9 @@
 
 # Engineer 3
 
+- Solid Concepts
+- Javascript Design Patterns
+	-Basic concepts
 - Javascript
 	- Closures, Prototype
 	- Functional programming
@@ -59,6 +69,7 @@
 	- Object-Oriented Design Patterns
 - Typescript
 	- Basic syntax, features, types, classes, interfaces
+	- Decorators, types for a better Code.
 - Web Accessibility
 	- Accessibility Overview
 	- Focus
@@ -95,14 +106,23 @@
 	- Forms
 	- Composition and inheritance
 - CSS
-	- Media queries, preprocessors, mixins, flexbox, grid system
-- Sass / Less
+	- Media queries
+	- flexbox, grid system
+	- CSS Naming Conventions
+- Sass / Less / Stylus / PostCSS
+	- Preprocessors
+	- Variables, Nesting
+	- Mixins
+	- Extend/Inheritance
 
 # Senior
-
+- Javascript Design Patterns
+	- Creational Design Patterns (Abstract Factory, Builder, Prototype, Singleton)
+	- Structural Design Patterns (Adapter, Decorator, Facade, Composite, flyweight)
+	- Behavioral Design Patterns (Chain of Responsability, command, Iteratir, Observer )
 - Javascript
 	- ECMA 6 specs
-	-Prototype chain
+	- Prototype chain
 	- Map, filter, reduce, Map vs. Object
 	- Async operations: callback, promise, generator, event emitter, observable)
 - JavaScript Tools & Testing
@@ -110,9 +130,6 @@
 	- Powerful Builds
 	- How to Prevent Disasters
 	- Awesome Optimizations
-- Javascript Design Patterns
-	- Changing Expectations
-	- Refactoring With Separation Of Concerns
 - Typescript
 	- Shapes, type inference, type keyword, union types, intersection types, function type definition, decorators
 - Front-end Frameworks
